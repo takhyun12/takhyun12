@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Tackhyun Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=takhyun12&show_icons=true&theme=tokyonight)
+![Tackhyun Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=takhyun12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takhyun12&layout=compact&theme=tokyonight)
 
