@@ -14,12 +14,12 @@ I'm a software engineer at Smilegate with a mission to make a Humanized AI Servi
 - Clean Code & Nice Algorithms
 
 ## My Academic expertise 📘
-- computer vision theory
+- Computer vision theory
 - Computer science
-- software engineering
-- acoustic audio theory
-- statistics and deep learning theory
-- cyber security theory and compliance
+- Software engineering
+- Acoustic audio theory(basic level)
+- Statistics and deep learning theory
+- Cyber security theory and compliance
 
 ## My GitHub Activity
 Currently, I am using my company's private account.
