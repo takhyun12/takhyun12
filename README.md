@@ -50,6 +50,9 @@ currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.png
 <ul>
   <li><a href="https://smilegate.ai/2022/04/03/ai-media-studio/"><b>🌱 Introducing Smilegate's AI Media Studio (Part 1) </b></a><br/>
     <i>Introducing AI media studios of smilegate that support creative activities through AI technology.</i></li>
+  
+  <li><a href="https://ieeexplore.ieee.org/document/9072088/"><b>🌱 DeepVision: Deepfakes Detection using human eye blinking pattern (IEEE Access, SCI(E)) </b></a><br/>
+    <i>Proposed a new approach to detect Deepfakes generated through the deep learning via an algorithm called DeepVision.</i></li>
 </ul>
 
 
