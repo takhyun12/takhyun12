@@ -1,9 +1,14 @@
-## Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello world, I'm Tackhyun Jung </h1>
 
-I'm a software engineer at Smilegate with a mission to make a Humanized AI Service and safe, reliable software.
+<p> Welcome to my github page! </br>
+I'm Tackhyun, AI/ML engineer at smilegate <img src="https://media.pcgamesinsider.biz/2020/7/105964/smilegate-barcelona-logo-r225x.png" width="15"/>, 
+currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.pngegg.com/pngimages/981/536/png-clipart-flag-of-south-korea-first-republic-of-korea-flag-miscellaneous-flag-thumbnail.png" width="15"/> </b></p>
 
+
+[![Linkedin: tackhyun](https://img.shields.io/badge/-tackhyun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tackhyun-jung-a248941a8/)](https://www.linkedin.com/in/tackhyun-jung-a248941a8//)
 [![Gmail Badge](https://img.shields.io/badge/-takhyun12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:takhyun12@gmail.com)](mailto:takhyun12@gmail.com) 
-<a href="https://www.linkedin.com/in/tackhyun-jung-a248941a8/"><img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" width=25></a>
+[![GitHub Tackhyun](https://img.shields.io/github/followers/takhyun12?label=follow&style=social)](https://github.com/takhyun12)
+
 
 ## My Interests 😍
 
