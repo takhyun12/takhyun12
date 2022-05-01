@@ -9,7 +9,7 @@ currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.png
 [![GitHub Tackhyun](https://img.shields.io/github/followers/takhyun12?label=follow&style=social)](https://github.com/takhyun12)
 
 
-<H3> My Technical skill sets </H3>
+<H3> My technical skill sets </H3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
@@ -36,17 +36,26 @@ currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.png
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C&logoColor=white" />
 </p>
 
+<H3> My academic expertise 🎓 </H3>
+<p>
+- Computer vision theory (master level) <br>
+- Cyber security theory and compliance (master level) <br>
+- Computer science <br>
+- Software engineering <br>
+- Statistics and deep learning theory <br>
+- Acoustic audio theory(basic level) <br>
+</p>
 
-## My Academic expertise 📘
-- Computer vision theory
-- Computer science
-- Software engineering
-- Acoustic audio theory(basic level)
-- Statistics and deep learning theory
-- Cyber security theory and compliance
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://smilegate.ai/2022/04/03/ai-media-studio/"><b>🌱 Introducing Smilegate's AI Media Studio (Part 1) </b></a><br/>
+    <i>Introducing AI media studios of smilegate that support creative activities through AI technology.</i></li>
+</ul>
 
-## My GitHub Activity
-Currently, I am using my company's private account.
+
+<H3> My github activity </H3>
+<p>
+Currently, I am using my company's private account 🔐<br></p>
 
 ![Tackhyun Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=takhyun12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
