@@ -43,7 +43,7 @@ currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.png
 - Computer science <br>
 - Software engineering <br>
 - Statistics and deep learning theory <br>
-- Acoustic audio theory(basic level) <br>
+- Acoustic audio theory (basic level) <br>
 </p>
 
 <h3>My latest posts</h3>
