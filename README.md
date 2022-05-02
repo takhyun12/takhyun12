@@ -1,8 +1,8 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello world, I'm Tackhyun Jung </h1>
 
 <p> Welcome to my github page! </br>
-I'm Tackhyun, AI/ML engineer at smilegate <img src="https://media.pcgamesinsider.biz/2020/7/105964/smilegate-barcelona-logo-r225x.png" width="15"/>, 
-currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.pngegg.com/pngimages/981/536/png-clipart-flag-of-south-korea-first-republic-of-korea-flag-miscellaneous-flag-thumbnail.png" width="15"/> </b></p>
+I'm Tackhyun, AI/ML engineer at smilegate <img src="https://media.pcgamesinsider.biz/2020/7/105964/smilegate-barcelona-logo-r225x.png" width="20"/>, 
+currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.pngegg.com/pngimages/981/536/png-clipart-flag-of-south-korea-first-republic-of-korea-flag-miscellaneous-flag-thumbnail.png" width="20"/> </b></p>
 
 [![Linkedin: tackhyun](https://img.shields.io/badge/-tackhyun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tackhyun-jung-a248941a8/)](https://www.linkedin.com/in/tackhyun-jung-a248941a8//)
 [![Gmail Badge](https://img.shields.io/badge/-takhyun12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:takhyun12@gmail.com)](mailto:takhyun12@gmail.com) 
@@ -58,7 +58,7 @@ currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.png
 
 <H3> My github activity </H3>
 <p>
-Currently, I am using my company's private account 🔐<br></p>
+  Currently, I am using <b>my company's private account</b> 🔐<br></p>
 
 ![Tackhyun Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=takhyun12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
