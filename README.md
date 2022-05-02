@@ -46,7 +46,7 @@ currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.png
 - Acoustic audio theory (basic level) <br>
 </p>
 
-<h3>My latest posts</h3>
+<h3>My latest posts 📑 </h3>
 <ul>
   <li><a href="https://smilegate.ai/2022/04/03/ai-media-studio/"><b>🌱 Introducing Smilegate's AI Media Studio (Part 1) </b></a><br/>
     <i>Introducing AI media studios of smilegate that support creative activities through AI technology.</i></li>
