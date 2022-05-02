@@ -9,7 +9,7 @@ currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.png
 [![GitHub Tackhyun](https://img.shields.io/github/followers/takhyun12?label=follow&style=social)](https://github.com/takhyun12)
 
 
-<H3> My technical skill sets </H3>
+<H3> My technical skill sets 🔎 </H3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
@@ -56,7 +56,7 @@ currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.png
 </ul>
 
 
-<H3> My github activity </H3>
+<H3> My github activity 🚀 </H3>
 <p>
   Currently, I am using <b>my company's private account</b> 🔐<br></p>
 
