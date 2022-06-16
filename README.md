@@ -48,6 +48,9 @@ currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.png
 
 <h3>My latest posts 📑 </h3>
 <ul>
+  <li><a href="https://smilegate.ai/2022/06/16/%ec%8a%a4%eb%a7%88%ec%9d%bc%ea%b2%8c%ec%9d%b4%ed%8a%b8%ec%9d%98-ai-media-studio%eb%a5%bc-%ec%86%8c%ea%b0%9c%ed%95%a9%eb%8b%88%eb%8b%a4-2%eb%b6%80/"><b>🌱 Introducing Smilegate's AI Media Studio (Part 2) </b></a><br/>
+    <i>Introducing AI media studios of smilegate that support creative activities through AI technology.</i></li>
+  
   <li><a href="https://smilegate.ai/2022/04/03/ai-media-studio/"><b>🌱 Introducing Smilegate's AI Media Studio (Part 1) </b></a><br/>
     <i>Introducing AI media studios of smilegate that support creative activities through AI technology.</i></li>
   
