@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello world, I'm Tackhyun Jung </h1>
+<h1>Hello world, I'm Tackhyun Jung </h1>
 
 <p> Welcome to my github page! </br>
 I'm Tackhyun, AI/ML engineer at smilegate <img src="https://media.pcgamesinsider.biz/2020/7/105964/smilegate-barcelona-logo-r225x.png" width="20"/>, 
