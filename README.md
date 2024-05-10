@@ -1,7 +1,7 @@
 <h1>Hello world, I'm Tackhyun Jung </h1>
 
 <p> Welcome to my github page! </br>
-I'm Tackhyun, AI/ML engineer at smilegate <img src="https://media.pcgamesinsider.biz/2020/7/105964/smilegate-barcelona-logo-r225x.png" width="20"/>, 
+I'm Tackhyun, AI/ML engineer at snow, 
 currently living in Pangyo(Seongnam), Republic of Korea <img src="https://e7.pngegg.com/pngimages/981/536/png-clipart-flag-of-south-korea-first-republic-of-korea-flag-miscellaneous-flag-thumbnail.png" width="20"/> </b></p>
 
 [![Linkedin: tackhyun](https://img.shields.io/badge/-tackhyun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tackhyun-jung-a248941a8/)](https://www.linkedin.com/in/tackhyun-jung-a248941a8//)
